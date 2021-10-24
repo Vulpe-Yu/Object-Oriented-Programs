@@ -1,0 +1,9 @@
+D:\報告\物件導向_吳順德\W5\Q5\Q5\bin\Release\Q5.exe.config
+D:\報告\物件導向_吳順德\W5\Q5\Q5\bin\Release\Q5.exe
+D:\報告\物件導向_吳順德\W5\Q5\Q5\bin\Release\Q5.pdb
+D:\報告\物件導向_吳順德\W5\Q5\Q5\obj\Release\Q5.Form1.resources
+D:\報告\物件導向_吳順德\W5\Q5\Q5\obj\Release\Q5.Properties.Resources.resources
+D:\報告\物件導向_吳順德\W5\Q5\Q5\obj\Release\Q5.csproj.GenerateResource.cache
+D:\報告\物件導向_吳順德\W5\Q5\Q5\obj\Release\Q5.csproj.CoreCompileInputs.cache
+D:\報告\物件導向_吳順德\W5\Q5\Q5\obj\Release\Q5.exe
+D:\報告\物件導向_吳順德\W5\Q5\Q5\obj\Release\Q5.pdb
