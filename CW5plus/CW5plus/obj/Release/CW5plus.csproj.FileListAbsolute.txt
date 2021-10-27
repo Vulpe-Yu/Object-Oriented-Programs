@@ -1,0 +1,10 @@
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\bin\Release\CW5plus.exe.config
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\bin\Release\CW5plus.exe
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\bin\Release\CW5plus.pdb
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\obj\Release\CW5plus.csproj.AssemblyReference.cache
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\obj\Release\CW5plus.Form1.resources
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\obj\Release\CW5plus.Properties.Resources.resources
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\obj\Release\CW5plus.csproj.GenerateResource.cache
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\obj\Release\CW5plus.csproj.CoreCompileInputs.cache
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\obj\Release\CW5plus.exe
+D:\報告\物件導向_吳順德\CW5plus\CW5plus\obj\Release\CW5plus.pdb
