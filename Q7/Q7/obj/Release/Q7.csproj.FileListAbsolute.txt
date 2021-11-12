@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Q7\Q7\bin\Release\Q7.exe.config
+C:\Users\User\Desktop\Q7\Q7\bin\Release\Q7.exe
+C:\Users\User\Desktop\Q7\Q7\bin\Release\Q7.pdb
+C:\Users\User\Desktop\Q7\Q7\obj\Release\Q7.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Q7\Q7\obj\Release\Q7.Form1.resources
+C:\Users\User\Desktop\Q7\Q7\obj\Release\Q7.Properties.Resources.resources
+C:\Users\User\Desktop\Q7\Q7\obj\Release\Q7.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Q7\Q7\obj\Release\Q7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Q7\Q7\obj\Release\Q7.exe
+C:\Users\User\Desktop\Q7\Q7\obj\Release\Q7.pdb
