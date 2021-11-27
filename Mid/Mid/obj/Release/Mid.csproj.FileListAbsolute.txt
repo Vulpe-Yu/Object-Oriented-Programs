@@ -1,0 +1,10 @@
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\bin\Release\Mid.exe.config
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\bin\Release\Mid.exe
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\bin\Release\Mid.pdb
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\obj\Release\Mid.csproj.AssemblyReference.cache
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\obj\Release\Mid.Form1.resources
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\obj\Release\Mid.Properties.Resources.resources
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\obj\Release\Mid.csproj.GenerateResource.cache
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\obj\Release\Mid.csproj.CoreCompileInputs.cache
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\obj\Release\Mid.exe
+D:\報告\物件導向_吳順德\Midterm\Mid\Mid\obj\Release\Mid.pdb
